@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "321567485796",
+    "firebase_url": "https://firsttest-f8e90.firebaseio.com",
+    "project_id": "firsttest-f8e90",
+    "storage_bucket": "firsttest-f8e90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321567485796:android:ad030ed63dacd32c",
+        "android_client_info": {
+          "package_name": "com.example.acer.firebasefirsttime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321567485796-1tgt694dargmjkj16jmcu2j51mr7k9rt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.firebasefirsttime",
+            "certificate_hash": "1cd12e373f60df3f7feaf3dfdb0b5ac82cef538b"
+          }
+        },
+        {
+          "client_id": "321567485796-r5fojq9ifklq57ipngdi43fmj5fu4mj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5MNVPzCH0ILL1TAyMsW--yAijpUK7_vI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321567485796-r5fojq9ifklq57ipngdi43fmj5fu4mj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321567485796:android:99ab2e879f564ff8",
+        "android_client_info": {
+          "package_name": "com.example.acer.firebasefirstmine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321567485796-qb9gd9bovehddv50n3b8ovan9sjcjj6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.firebasefirstmine",
+            "certificate_hash": "1cd12e373f60df3f7feaf3dfdb0b5ac82cef538b"
+          }
+        },
+        {
+          "client_id": "321567485796-r5fojq9ifklq57ipngdi43fmj5fu4mj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5MNVPzCH0ILL1TAyMsW--yAijpUK7_vI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321567485796-r5fojq9ifklq57ipngdi43fmj5fu4mj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
